@@ -1,0 +1,12 @@
+name: w4ShinyAppReprodPitch
+title: w4ShinyAppReprodPitch
+username:
+account: sunilvnair
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 241107
+bundleId: 1101825
+url: https://sunilvnair.shinyapps.io/w4ShinyAppReprodPitch/
+when: 1511894596.4829
+asMultiple: FALSE
+asStatic: FALSE
